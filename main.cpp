@@ -13,5 +13,4 @@ int main()
     a.setDay(24);
     b.setDay(25);
     cout << endl;
-    cout << a << "      " << b << endl;
 }
